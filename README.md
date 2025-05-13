@@ -1,5 +1,5 @@
 # Portfoilio-Optimization-Model
-First of all,  if u have any question .. keep it to yourself .., I am not a google.. you can solve it by your own ..,Thank you
+
 
 This project is geared towards developing a Linear Programming (LP) model that will assist with portfolio management.
 The aim is to achieve maximum returns on investment with reasonable risk and other constraints such as risk appetite, diversification, and amount of money available.
